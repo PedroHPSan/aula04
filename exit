@@ -1,0 +1,17 @@
+[33mcommit 78c68dcf0a80e62d12bc3a12cc10996f2591560d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mbugs[m[33m)[m
+Author: Pedro Santos <pedropalhetasantos@gmail.com>
+Date:   Mon Dec 2 20:05:49 2024 -0300
+
+    Correção do laço infinito no menu 02, implementado incremento
+
+[33mcommit aa202a579b704677b0ac40ee0c846196018fdaeb[m
+Author: Pedro Santos <pedropalhetasantos@gmail.com>
+Date:   Mon Dec 2 19:54:15 2024 -0300
+
+    new feature: entrada pelo usuario do valor hora-aula
+
+[33mcommit b58c8738ad98bc267d8a5c0d1a2a2390f1ff2073[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Eliane <eliane@fiap.com.br>
+Date:   Mon Dec 2 18:53:46 2024 -0300
+
+    Aula 04
